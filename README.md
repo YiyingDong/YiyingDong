@@ -1,11 +1,11 @@
-# Yiying Dong;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Yiying Dong<img src="./assets/Code Coding GIF by EscuelaDevRock.gif" width="30px">
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
 -->
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<!-- <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" /> -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -24,7 +24,7 @@
     • Bridging theory with real-world applications 🌍
     • Lifelong learning in emerging technologies 📚
 
-    ✨ Open to research partnerships and knowledge exchange opportunities. Let's engineer the future of intelligent systems together! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+    ✨ Open to research partnerships and knowledge exchange opportunities. Let's engineer the future of intelligent systems together! <img src="./assets/Rocket.gif" width="18px">
   </em>  
 </p>
 
