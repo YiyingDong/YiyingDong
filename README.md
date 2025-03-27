@@ -17,14 +17,14 @@
     🚀 Passionate about advancing <b>Multimodal Large Language Models (MLLMs)</b> through human-centric AI research. Specializing in:
     • Cross-modal understanding 🌐
     • Vision-language integration 👁️🗨️
-    • Context-aware learning architectures �
+    • Context-aware learning architectures 
 
     📈 Continuously seeking <b>innovative collaborations</b> and <b>research challenges</b> to push the boundaries of AI capabilities. Committed to:
     • Developing ethical AI solutions ⚖️
     • Bridging theory with real-world applications 🌍
     • Lifelong learning in emerging technologies 📚
 
-    ✨ Open to research partnerships and knowledge exchange opportunities. Let's engineer the future of intelligent systems together!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"
+    ✨ Open to research partnerships and knowledge exchange opportunities. Let's engineer the future of intelligent systems together!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em>  
 </p>
 
