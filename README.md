@@ -24,7 +24,7 @@
     • Bridging theory with real-world applications 🌍
     • Lifelong learning in emerging technologies 📚
 
-    ✨ Open to research partnerships and knowledge exchange opportunities. Let's engineer the future of intelligent systems together! <img src="https://github.com/YiyingDong/YiyingDong/blob/main/assets/Rocket.gif" width="18px">
+    ✨ Open to research partnerships and knowledge exchange opportunities. Let's engineer the future of intelligent systems together!<img src="https://github.com/YiyingDong/YiyingDong/blob/main/assets/Rocket.gif" width="18px">
   </em>  
 </p>
 
