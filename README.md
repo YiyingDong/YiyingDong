@@ -5,13 +5,12 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
 -->
 
-<img align="right" alt="PC GIF" src="./assets/Happy I Love You GIF.gif" width="190" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
-    👩💻 PhD Researcher | Multimodal AI Developer 
+    👩💻 PhD Researcher | Multimodal AI Developer <img align="right" alt="PC GIF" src="./assets/Happy I Love You GIF.gif" width="19px" />
     📍<a href="https://www.polyu.edu.hk/" target="_blank"><b>Hong Kong Polytechnic University (PolyU)</b></a> 
 
     🚀 Passionate about advancing <b>Multimodal Large Language Models (MLLMs)</b> through human-centric AI research. Specializing in:
