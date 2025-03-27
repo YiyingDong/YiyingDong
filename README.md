@@ -24,7 +24,7 @@
     • Bridging theory with real-world applications 🌍
     • Lifelong learning in emerging technologies 📚
 
-    ✨ Open to research partnerships and knowledge exchange opportunities. Let's engineer the future of intelligent systems together!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+    ✨ Open to research partnerships and knowledge exchange opportunities. Let's engineer the future of intelligent systems together!
   </em>  
 </p>
 
