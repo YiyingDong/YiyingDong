@@ -17,7 +17,7 @@
 
 ### 🚀 Core Competencies
 
-- 🚀 Passionate about advancing <b>Multimodal Large Language Models (MLLMs)</b> through human-centric AI research. Specializing in:
+- 🔥 Passionate about advancing <b>Multimodal Large Language Models (MLLMs)</b> through human-centric AI research. Specializing in:
   - Cross-modal understanding 🌐
   - Vision-language integration 👁️
   - Context-aware learning architectures🗨️
