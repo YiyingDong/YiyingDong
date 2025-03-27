@@ -10,7 +10,7 @@
 
 <p>
   <em>
-    👩💻 PhD Researcher | Multimodal AI Developer <img align="right" alt="PC GIF" src="./assets/Happy I Love You GIF.gif" width="19px" />
+    👩💻 PhD Researcher | Multimodal AI Developer <img src="./assets/Happy I Love You GIF.gif" width="25px" />
     📍<a href="https://www.polyu.edu.hk/" target="_blank"><b>Hong Kong Polytechnic University (PolyU)</b></a> 
 
     🚀 Passionate about advancing <b>Multimodal Large Language Models (MLLMs)</b> through human-centric AI research. Specializing in:
